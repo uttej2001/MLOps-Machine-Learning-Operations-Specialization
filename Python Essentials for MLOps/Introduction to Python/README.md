@@ -1,19 +1,19 @@
 # Introduction To Python
 
-_Python Bootcamp for Data week 1: Introdution to Python_
+_Python Essentials for MLOps - week 1: Introdution to Python_
 
-This week, you will learn how to effectively use variables, logic, and Python’s data structures to load, persist, and iterate over data. You will apply these data structures to solve different problems as well as extract data from them.
+In this week, I learnt how to effectively use variables, logic, and Python’s data structures to load, persist, and iterate over data. I applied these data structures to solve different problems as well as extract data from them.
 
-> 🎥 Click the image above to access week 1 of the full course on O'Reilly
+![image](https://github.com/uttej2001/MLOps-Machine-Learning-Operations-Specialization/assets/72940291/541e29a7-acae-429d-810d-5cd2275bea45)
 
-[![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:50146VIDEOPAIML/400w/)](https://learning.oreilly.com/videos/python-bootcamp-for/50146VIDEOPAIML/50146VIDEOPAIML-c1_s2/ "Introduction to Python")
 
-This is week 1 (out of 4) of the Python Bootcamp for Data. The whole course has four weeks:
+This is week 1 (out of 5) of the MLOps | Machine Learning Operations Specialization by Duke University (offered on Coursera). The whole course has five weeks:
 
 - [Week 1: Introduction to Python](https://github.com/alfredodeza/introduction-to-python)
 - [Week 2: Python Functions and Classes](https://github.com/alfredodeza/python-functions-and-classes)
 - [Week 3: Testing In Python](https://github.com/alfredodeza/python-testing/)
 - [Week 4: Introduction to Pandas and Numpy](https://github.com/alfredodeza/pandas-and-numpy)
+- [Week 5: Applied Python for MLOps](https://github.com/alfredodeza/pandas-and-numpy)
 
 # Table of Contents
 
@@ -29,7 +29,7 @@ This is week 1 (out of 4) of the Python Bootcamp for Data. The whole course has 
 
 ## Learning Objectives
 
-In this week you will learn to:
+In this week I learnt about:
 
 - Apply different Python data structures to work with data.
 - Use conditional logic and loops to extract data.
